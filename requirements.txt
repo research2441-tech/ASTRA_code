@@ -1,0 +1,13 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+scikit-learn>=1.5
+lightgbm>=4.3
+onnx>=1.16
+onnxruntime>=1.18
+regex
+nltk>=3.9
+matplotlib>=3.8
+openpyxl
+python-docx
+pillow

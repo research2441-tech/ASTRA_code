@@ -1,0 +1,1 @@
+{"perturbation_ms": 6.429626941680908, "gpt2_orig_ms": 35.29833436012268, "gpt2_pert_ms": 150.13451218605042, "experts_router_no_pert_ms": 2.0255476236343384, "experts_router_full_ms": 9.295979142189026, "astra_total_ms": 201.15845263004303, "stacking_total_ms": 37.32388198375702}
